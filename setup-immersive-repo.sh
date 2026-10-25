@@ -1,8 +1,8 @@
 #!/bin/sh
 set -eu
 
-# PARTICIPANT: Change only this URL to your new EMPTY GitHub repository.
-NEW_REPO_URL="https://github.com/rko26-tt-shiny-dollop/immersive-demo-test.git"
+# PARTICIPANT: Change only this URL to your new EMPTY GitHub repository (make sure url ends with '.git').
+NEW_REPO_URL="<your-gh-repo-url>.git"
 
 # ============================================================
 # DO NOT MODIFY BELOW THIS LINE
